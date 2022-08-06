@@ -1,0 +1,3 @@
+-  Hi👋, I’m @SergioWater
+-   I have a few atlas Most common are: Water, Sergio, and on occasions Blanket.🤙
+-   In my free time, I'm an Guitar Player/Singer, soccer player, and a keen Fortnite player, I know I know Fortnite is old but I enjoy it.
