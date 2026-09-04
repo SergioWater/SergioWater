@@ -1,32 +1,27 @@
 # Sergio Aguilar
 
-Software engineer focused on real-time systems, distributed data
-infrastructure, machine-learning workloads, and performance optimization.
+Full-stack software engineer building AI applications, automation tools, autonomous-vehicle systems, and real-time data software.
 
-B.S. in Computer Science from San Francisco State University, based in
-San Jose, California.
+B.S. in Computer Science from San Francisco State University, based in San Jose, California.
 
-## Featured engineering work
+## Featured Projects
 
-- [Autonomous Vehicle Telemetry Pipeline](https://github.com/SergioWater/av-pipeline) —
-  Kafka-compatible ingestion with Python, Redpanda, Spark Structured Streaming,
-  Delta Lake, Docker, and MinIO.
-- [Triton Fused Softmax](https://github.com/SergioWater/triton-fused-softmax) —
-  GPU-kernel correctness, benchmarking, autotuning, and profiling with Triton,
-  PyTorch, CUDA, and Nsight.
-- [Neural Autonomous Vehicle Simulation](https://github.com/SergioWater/ai_neat_car) —
-  radar-based sensing, collision detection, and neuroevolution with Python,
-  Pygame, and NEAT.
+### [Advanced Autonomous Vehicle Simulation](https://github.com/SergioWater/ai_neat_car)
+Self-driving vehicle simulation built with Python, Pygame, and NEAT.
 
-## Core technologies
+### [Autonomous Vehicle Telemetry Pipeline](https://github.com/SergioWater/av-pipeline)
+Real-time vehicle telemetry pipeline built with Python, Kafka/Redpanda, Docker, and MinIO.
 
-`Python` · `C++` · `Java` · `SQL` · `Linux` · `PyTorch` · `Triton` ·
-`Docker` · `Redpanda/Kafka` · `Spark` · `PostgreSQL`
+### [Triton Fused Softmax](https://github.com/SergioWater/triton-fused-softmax)
+GPU softmax benchmarking project built with Triton, PyTorch, and CUDA.
 
-## Production work
+## Production Work
 
-I build and deploy web applications, API integrations, technical SEO systems,
-and performance improvements for organizations and local businesses.
+I build and deploy web applications, API integrations, automation systems, and performance improvements for organizations and local businesses.
 
 - [Portfolio](https://blanketgo.com)
 - [Kensei Judo](https://kenseijudo.com)
+
+## Core Technologies
+
+`Python` · `JavaScript` · `TypeScript` · `C++` · `Java` · `SQL` · `React` · `Astro` · `Linux` · `Docker` · `PostgreSQL` · `PyTorch`
